@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: larger;
+  font-weight: bold;
+}
